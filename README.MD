@@ -2,7 +2,7 @@
 
 ## Overview
 > 🏆 **Best Project Award – Object-Oriented Programming (OOP)**  
-> 📄 [View Certificate](Documents/OOP Certificate.jpg)
+> 📄 [View Certificate](https://raw.githubusercontent.com/Yehiahany2005/PlantsVsZombies-MIU/refs/heads/master/Documents/OOP%20Certificate.jpg)
 
 This project is a JavaFX-based game developed as part of our **Object-Oriented Programming Course Project**. It showcases a strategic gameplay experience with custom-designed levels while utilizing core OOP concepts such as encapsulation, inheritance, abstraction, and additional features like threading, collision handling, etc.
 
